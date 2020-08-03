@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* outline: 1px solid black; */
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Cabin", sans-serif;
+    background: #2f2929;
+    background: -webkit-linear-gradient(
+        to bottom,
+        #cfdef3,
+        #e0eafc
+    );
+}
+
+.astronaut{
+    background: #393f46;
+    color: white;
+    font-size: larger;
+    min-width: 180px;
+    text-align: center;
+    padding: 25px;
+    border-radius: 6px;
+    border: 10px #206a5d solid;
+    box-shadow: 1px 2px 4px rgba(0,0,0,0.5);
+}
+
+
