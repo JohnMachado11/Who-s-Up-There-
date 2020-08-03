@@ -22,6 +22,9 @@ const createHtml = (data) => {
     astronautDiv.innerHTML = html
 }
 
+
+
+// Potential usage
 // data.people.map(x => `Name: ${x.name}, Craft: ${x.craft}`).join("<br />")}
 
 // `
