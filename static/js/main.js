@@ -21,13 +21,3 @@ const createHtml = (data) => {
     const astronautDiv = document.querySelector('.astronaut')
     astronautDiv.innerHTML = html
 }
-
-
-
-// Potential usage
-// data.people.map(x => `Name: ${x.name}, Craft: ${x.craft}`).join("<br />")}
-
-// `
-// // <div class="name"> Name: ${data.people[0].name}</div>
-// // <div class="name"> Craft: ${data.people[0].craft}</div>
-// // `
