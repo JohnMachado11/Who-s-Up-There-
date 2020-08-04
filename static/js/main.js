@@ -32,4 +32,3 @@ const createHtml = (data) => {
     const astronautDiv = document.querySelector('.astronaut')
     astronautDiv.innerHTML = html
 }
-
