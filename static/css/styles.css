@@ -2,7 +2,8 @@ body, html {
     height: 100%;
     width: 100%;
     margin: 0;
-    background: white solid;
+    background: rgb(111,106,106);
+    background: linear-gradient(302deg, rgba(111,106,106,1) 1%, rgba(0,0,0,1) 94%);
     background: -webkit-linear-gradient(
         to bottom,
         #cfdef3,
@@ -28,7 +29,6 @@ body, html {
     min-width: 180px;
     text-align: center;
     padding: 25px;
-    border-radius: 6px;
     border: 10px white solid;
     box-shadow: 1px 2px 4px rgba(0,0,0,0.5);
 }
