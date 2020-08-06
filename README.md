@@ -9,7 +9,7 @@ Live data feed of the total amount of astronauts from Earth who are in space as 
 
 . Install [Node.js](https://nodejs.org)
 
-. Load the command terminal on your computer. 
+. Load the command terminal on your computer 
 
 ### Step 1
 
