@@ -9,9 +9,11 @@ Live data feed of the total amount of astronauts from Earth who are in space as 
 
 Install [Node.js](https://nodejs.org)
 
+Load the command terminal on your computer. 
+
 ### Step 1
 
-Clone this repository.
+Clone this repository. Use this command on the terminal. 
 
 ```
 git clone https://github.com/JohnMachado11/Who-s-Up-There-.git
@@ -27,13 +29,13 @@ cd Who-s-Up-There-
 
 ### Step 3
 
-If you want to start a server, use this command on the terminal.
+To launch the app. 
 
 ```
 node app.js
 ```
 
-Then you can go to http://localhost:3000 in your browser.
+Then go to http://localhost:3000 in your browser.
 
 ## Special Thanks - Nathan Bergey for creation of the API
 
