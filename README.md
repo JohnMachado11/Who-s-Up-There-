@@ -32,3 +32,8 @@ node app.js
 ```
 
 Then you can go to http://localhost:3000 in your browser.
+
+## Special Thanks Nathan Bergey for creation of the Astros API
+
+<a href="http://open-notify.org/">open-notify</a>
+<a href="https://github.com/open-notify/Open-Notify-API">open-notify api github</a>
