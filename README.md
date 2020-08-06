@@ -39,7 +39,7 @@ Then go to http://localhost:3000 in your browser.
 
 ### How to view on Mobile
 
-1. In your terminal type
+1. In your terminal type:
 
 ```
 ipconfig 
