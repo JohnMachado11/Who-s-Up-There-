@@ -1,4 +1,4 @@
-# Who-s-Up-There-
+# Who's Up There? 
 Live data feed of the total amount of astronauts from Earth who are in space as well as the names of the astronauts and current spacecraft they occupy. 
 
 ## Installation
