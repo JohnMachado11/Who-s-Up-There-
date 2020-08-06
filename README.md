@@ -37,6 +37,8 @@ node app.js
 
 Then go to http://localhost:3000 in your browser.
 
-## Special Thanks - Nathan Bergey for creation of the API
+###
+
+### Special Thanks - Nathan Bergey for creation of the API
 
 <a href="http://open-notify.org/">Open-Notify Website</a>
