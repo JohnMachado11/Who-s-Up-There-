@@ -39,20 +39,22 @@ Then go to http://localhost:3000 in your browser.
 
 ### How to view on Mobile
 
-1. In your terminal type:
+1. Be on the same wifi network as your computer 
+
+2. In your terminal type:
 
 ```
 ipconfig 
 ```
 
-2. Find the line with "192.xxx.x.xx"
+3. Find the line with "192.xxx.x.xx"
 
-3. Launch the app 
+4. Launch the app 
 
 ```
 node app.js
 ```
-4. On your mobile browser type in "192.xxx.x.xx:3000" 
+5. On your mobile browser type in "192.xxx.x.xx:3000" 
 
 ### Special Thanks - Nathan Bergey for creation of the API
 
