@@ -13,7 +13,7 @@ Live data feed of the total amount of astronauts from Earth who are in space as 
 
 ### Step 1
 
-Clone this repository. Use this command on the terminal. 
+Clone this repository. Use these commands on the terminal. 
 
 ```
 git clone https://github.com/JohnMachado11/Who-s-Up-There-.git
@@ -21,7 +21,7 @@ git clone https://github.com/JohnMachado11/Who-s-Up-There-.git
 
 ### Step 2
 
-Navigate to the folder.
+Navigate to the cloned repo folder.
 
 ```
 cd Who-s-Up-There-
@@ -37,7 +37,22 @@ node app.js
 
 Then go to http://localhost:3000 in your browser.
 
-###
+### How to view on Mobile
+
+1. In your terminal type
+
+```
+ipconfig 
+```
+
+2. Find the line with "192.xxx.x.xx"
+
+3. Launch the app 
+
+```
+node app.js
+```
+4. On your mobile browser type in "192.xxx.x.xx:3000" 
 
 ### Special Thanks - Nathan Bergey for creation of the API
 
