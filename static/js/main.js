@@ -1,5 +1,5 @@
 const apiData ={
-    url: 'http://api.open-notify.org/astros.json'
+    url: '//api.open-notify.org/astros.json'
 }
 
 const {url} = apiData
