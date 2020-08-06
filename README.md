@@ -56,6 +56,6 @@ node app.js
 ```
 5. On your mobile browser type in "192.xxx.x.xx:3000" 
 
-### Special Thanks - Nathan Bergey for creation of the API
+### Special Thanks - Nathan Bergey for creation of the Astros API
 
 <a href="http://open-notify.org/">Open-Notify Website</a>
